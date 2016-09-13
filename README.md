@@ -1,7 +1,6 @@
-# Minimal v2.0
+# LinuxMinimalOS-v2.0
 
-este es un software desarollado completamente en lenguaje BASH en su segunda version con nuevas herramientas
-el cual intenta "ENSAMBLAR" un sistema base GNU/LInux Minimalista, y en esta segunda version se añaden herramientas importantes:
+LinuxMinimalOS-v2.0 es un mini sistema operativo GNU/Linux construido desde un script desarollado ee lenguaje BASH en su segunda version, este llega  con nuevas herramientas, el cual "ENSAMBLA" un sistema base GNU/LInux Minimalista, y Nos ofrece servicio nuevos como calculadora, servidor SSH, un servidor web entre otras, aca el listado de sus nuevas funciones y herramientas.
 
 1.  bc 1.06.95 
 2.  zlib-1.2.8 
@@ -14,9 +13,13 @@ el cual intenta "ENSAMBLAR" un sistema base GNU/LInux Minimalista, y en esta seg
 9.  cdrkit-1.1.11
 10. perl-5.8.8 
 
+el usuario para acceso es:
 user:root
 
-su uso es el siguiente:
+tambien cuenta con un usuario www para la administracion del servidor se puede cambiar la contraseña de este usuario desde el usuario root.
+
+para su construccion se hace lo siguiente.
+
 el archivo sasaga.sh contiene todo el codigo fuente para la creacion del sistema linux minimalista basta solo con ejecutarlo
 
 cd carpeta_proyecto
