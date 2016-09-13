@@ -1,6 +1,6 @@
 # LinuxMinimalOS-v2.0
 
-LinuxMinimalOS-v2.0 es un mini sistema operativo GNU/Linux construido desde un script desarollado ee lenguaje BASH en su segunda version, este llega  con nuevas herramientas, el cual "ENSAMBLA" un sistema base GNU/LInux Minimalista, y Nos ofrece servicio nuevos como calculadora, servidor SSH, un servidor web entre otras, aca el listado de sus nuevas funciones y herramientas.
+LinuxMinimalOS-v2.0 es un mini sistema operativo GNU/Linux construido desde un script desarollado en lenguaje BASH en su segunda version, este llega  con nuevas herramientas, el cual "ENSAMBLA" un sistema base GNU/LInux Minimalista, y Nos ofrece servicio nuevos como calculadora, servidor SSH, un servidor web entre otras, aca el listado de sus nuevas funciones y herramientas.
 
 1.  bc 1.06.95 
 2.  zlib-1.2.8 
