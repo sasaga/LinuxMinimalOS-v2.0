@@ -1,0 +1,10 @@
+1.  bc 1.06.95  calculadora
+2.  zlib-1.2.8  compresion de Librerias
+3.  pcre2-10.20 funciones para Perl expresiones regulares
+4.  e2fsprogs-1.43.1 proporciona utilidades para manejar sistemas de ficheros ext2 y ext3.
+5.  dropbear-2016.74 es un pequeño cliente / servidor seguro de soporte SSH 2
+6.  lighttpd-1.4.41  es una luz, un servidor web seguro y potente
+7.  iptables-1.6.0 Iptables es un poderoso firewall integrado en el kernel de Linux y que forma parte del proyecto netfilter.
+8.  sqlite-3.14.1 SQLite es un sistema de gestión de bases de datos relacional compatible con ACID, contenida en una relativamente pequeña (~275 kiB)2 biblioteca escrita en C
+9.  cdrkit-1.1.11 cdrkit (www.cdrkit.org) proporciona herramientas para la manipulación de los CD-ROM.
+10. perl-5.8.8 Microperl es una pequeña aplicación de Perl usando las funciones más básicas de la lengua.
