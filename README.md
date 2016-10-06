@@ -1,6 +1,6 @@
 # LinuxMinimalOS-v2.0
 
-LinuxMinimalOS-v2.0 es un mini sistema operativo GNU/Linux construido desde un script desarollado en lenguaje BASH. en su segunda versión, este llega  con nuevas herramientas, el cual "ENSAMBLA" un sistema base GNU/LInux Minimalista, y Nos ofrece servicios nuevos como calculadora, servidor SSH, un servidor web entre otras, aca el listado de sus nuevas funciones y herramientas.
+LinuxMinimalOS-v2.0 es un mini sistema operativo GNU/Linux construido desde un script desarollado en lenguaje BASH. en su segunda versión, este llega  con nuevas herramientas, el cual "ENSAMBLA" un sistema base GNU/LInux Minimalista, y nos ofrece servicios nuevos como calculadora, servidor SSH, un servidor web entre otras, aca el listado de sus nuevas funciones y herramientas.
 
 1.  bc 1.06.95 
 2.  zlib-1.2.8 
@@ -13,26 +13,26 @@ LinuxMinimalOS-v2.0 es un mini sistema operativo GNU/Linux construido desde un s
 9.  cdrkit-1.1.11
 10. perl-5.8.8 
 
-el usuario para acceso es:
+El usuario para acceso es:
 user:root
 
-tambien cuenta con un usuario www para la administracion del servidor se puede cambiar la contraseña de este usuario desde el usuario root.
+Tambien cuenta con un usuario www para la administración del servidor se puede cambiar la contraseña de este usuario desde el usuario root.
 
-para su construccion se hace lo siguiente.
+Para su construcción se hace lo siguiente.
 
-el archivo sasaga.sh contiene todo el codigo fuente para la creacion del sistema linux minimalista basta solo con ejecutarlo
+El archivo sasaga.sh contiene todo el código fuente para la creación del sistema linux minimalista basta solo con ejecutarlo
 
 cd carpeta_proyecto
 sudo ./sasaga.sh
 
 
-se generara una imagen ISO al final de la compilacion y ya pueden tener la base de un sistema linux minimalista, ¿listo para empezar armar el suyo completamente desde cero?
+Se generará una imagen ISO al final de la compilación y ya pueden tener la base de un sistema linux minimalista, ¿listo para empezar armar el suyo completamente desde cero?
 
 
-pudes colaborar a que siga creando nuevas herramientas con una donacion en Paypal al correo ssanchezga@ufpso.edu.co
+Puedes colaborar a que siga creando nuevas herramientas con una donación en Paypal al correo ssanchezga@ufpso.edu.co
 by @sasaga92
 
-breve galeria en funcionamiento LinuxMinimalOS-v2.0
+Breve galeria en funcionamiento LinuxMinimalOS-v2.0
 
 ![Alt text](galeria/1.png "LinuxMinimal1")
 ![Alt text](galeria/2.png "LinuxMinimal2")
@@ -53,3 +53,4 @@ breve galeria en funcionamiento LinuxMinimalOS-v2.0
 ![Alt text](galeria/17.png "LinuxMinimal17")
 ![Alt text](galeria/18.png "LinuxMinimal18")
 
+;) happy hacking!!!
