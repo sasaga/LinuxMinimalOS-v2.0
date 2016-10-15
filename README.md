@@ -57,4 +57,4 @@ Breve galeria en funcionamiento LinuxMinimalOS-v2.0
 ![Alt text](galeria/17.png "LinuxMinimal17")
 ![Alt text](galeria/18.png "LinuxMinimal18")
 
-;) happy hacking!!!
+:heart_eyes: happy hacking!!!
